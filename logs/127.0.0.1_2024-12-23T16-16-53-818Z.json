@@ -1,0 +1,16 @@
+{
+  "ip": "127.0.0.1",
+  "machine_name": "Manishs-MacBook-Pro.local",
+  "machine_specs": {
+    "os": "Darwin",
+    "os_version": "Darwin Kernel Version 24.0.0: Mon Aug 12 20:54:26 PDT 2024; root:xnu-11215.1.10~2/RELEASE_ARM64_T8112",
+    "machine": "arm64"
+  },
+  "start_time": "2024-12-23T21:46:53.818786",
+  "end_time": "2024-12-23T21:46:53.824707",
+  "file_size": 10071795,
+  "video_length": null,
+  "processing_time": 0.005921,
+  "status": "failure",
+  "error_logs": "Unexpected error during video processing: Failed to locate FFmpeg: Error locating the binary 'ffmpeg.exe': Executable 'ffmpeg.exe' not found in PATH."
+}
