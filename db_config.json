@@ -1,0 +1,18 @@
+{
+    "development": {
+        "host": "127.0.0.1",
+        "database": "videoaudiotool_dev",
+        "user": "postgres",
+        "password": "your_dev_password",
+        "port": 5432,
+        "sslmode": "disable"
+    },
+    "production": {
+        "host": "prod-db-host.example.com",
+        "database": "videoaudiotool",
+        "user": "postgres",
+        "password": "your_prod_password",
+        "port": 5432,
+        "sslmode": "require"
+    }
+}
